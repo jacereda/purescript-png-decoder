@@ -1,5 +1,5 @@
 {
-  "name": "purescript-jpeg-decoder",
+  "name": "purescript-png-decoder",
   "ignore": [
     "**/.*",
     "node_modules",
