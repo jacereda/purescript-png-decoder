@@ -1,0 +1,6 @@
+{
+  "private": true,
+  "dependencies": {
+    "pngjs": "^3.2.0"
+  }
+}
