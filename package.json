@@ -1,5 +1,6 @@
 {
   "private": true,
+  "name": "purescript-png-decoder",
   "dependencies": {
     "pngjs": "^3.2.0"
   }
