@@ -1,6 +1,6 @@
 module Data.Image.PNG.Decoder where
 
-import Control.Monad.Eff.Exception (Error)
+import Effect.Exception (Error)
 import Data.ArrayBuffer.Types (ArrayBuffer)
 import Data.Either (Either(..))
 
